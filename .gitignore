@@ -1,0 +1,13 @@
+# PostgreSQL
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tableau
+*.twb
+*.twbx
+
+# Outputs (optional — see note)
+outputs/*.csv
